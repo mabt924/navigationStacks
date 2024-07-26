@@ -18,6 +18,7 @@ struct ContentView: View {
                 //NavigationLink(destination: Text("you've arrived at the second view")) {
                    // Text("click me!")
                // }
+                //adding a comment
             }//closes v stack
             .navigationTitle("root view")
             .navigationBarTitleDisplayMode(.inline)
